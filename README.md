@@ -10,8 +10,8 @@
 
 ## 📌 About Me
 - I'm Learning Fullstack developing </>
-- Avarage CS2 Player
-- Pro Rivals Player
+- Future Software Engineer 
+- Avarage CS2 palyer 
 - Anime Lover
 
 
